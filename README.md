@@ -7,7 +7,7 @@ User registration and login with Firebase Auth
 Secure user sessions with automatic logout
 Profile management with personal information
 
-🚗 Vehicle Managemen 
+🚗 Vehicle Managemen asdasdas
 
 Register multiple vehicles per user
 Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)
