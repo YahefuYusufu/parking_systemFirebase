@@ -8,7 +8,7 @@ Secure user sessions with automatic logout
 Profile management with personal information
 
 🚗 Vehicle Managemen  
-asdasdasd
+ 
 Register multiple vehicles per user
 Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)asdasd
 Real-time vehicle data synchronization
