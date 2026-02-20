@@ -40,7 +40,7 @@ Material Design 3 components
 Responsive design for different screen sizes
 Clean expandable sections with smooth animationsasdasd
 
-🏗️ Architecture
+🏗️ Architectureasdsa
 This app follows Clean Architecture principles with clear separation of concerns:
 lib/
 ├── core/                     # Core utilities and errors
