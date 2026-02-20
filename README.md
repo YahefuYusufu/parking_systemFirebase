@@ -51,7 +51,7 @@ lib/
 │   │   ├── vehicle_remote_datasource.dart
 │   │   └── parking_data_source.dart
 │   ├── models/              # Data models
-│   │   ├── vehicles/
+│   │   ├── vehicles/aaa
 │   │   ├── parking/
 │   │   └── person/
 │   └── repositories/        # Repository implementations
