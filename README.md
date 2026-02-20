@@ -38,7 +38,7 @@ Dark and light theme support
 Terminal-style dark mode with monospace fonts
 Material Design 3 components
 Responsive design for different screen sizes
-Clean expandable sections with smooth animations
+Clean expandable sections with smooth animationsasdasd
 
 🏗️ Architecture
 This app follows Clean Architecture principles with clear separation of concerns:
