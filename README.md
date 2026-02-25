@@ -10,7 +10,7 @@ Profile management with personal informationasdasda
 🚗 Vehicle Managemen  
  
 Register multiple vehicles per user
-Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)asdasd
+Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)asdasdkjkj
 Real-time vehicle data synchronization
 Edit and delete vehicle functionality
 Registration number validation to prevent duplicates
