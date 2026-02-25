@@ -41,7 +41,7 @@ Responsive design for different screen sizes
 Clean expandable sections with smooth animationsasdasd
 
 🏗️ Architectureasdsa
-This app follows Clean Architecture principles with clear separation of concerns:
+This app follows Clean Architecture principles with clear separation of concerns:kjkjkj
 lib/
 ├── core/                     # Core utilities and errors
 │   └── errors/
