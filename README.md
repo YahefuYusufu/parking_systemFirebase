@@ -47,7 +47,7 @@ lib/
 │   └── errors/
 │       └── failures.dart
 ├── data/                     # Data layer
-│   ├── datasources/         # Remote data lkklk
+│   ├── datasources/         # Remote data lkklk link that in that
 │   │   ├── vehicle_remote_datasource.dart
 │   │   └── parking_data_source.dart
 │   ├── models/              # Data models
