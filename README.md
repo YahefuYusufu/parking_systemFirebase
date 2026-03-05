@@ -17,7 +17,7 @@ Registration number validation to prevent duplicates
 
 🅿️ Parking System
 
-Start and end parking sessions
+Start and end parking sessions in that
 Real-time parking space availability
 Automatic parking space status updates
 Duration tracking and fee calculation
