@@ -66,7 +66,7 @@ lib/
 │       ├── vehicles/
 │       └── parking/
 └── presentation/           # UI layer
-    ├── blocs/             # State management
+    ├── blocs/             # State managementta
     │   ├── auth/
     │   ├── vehicle/
     │   └── parking/
