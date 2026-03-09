@@ -13,7 +13,7 @@ Register multiple vehicles per user in a day
 Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)asdasdkjkj
 Real-time vehicle data synchronization
 Edit and delete vehicle functionalitysty
-Registration number validation to prevent duplicates
+Registration number validation to prevent duplicatesasd
 
 🅿️ Parking System
 
