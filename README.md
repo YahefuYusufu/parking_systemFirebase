@@ -5,7 +5,7 @@ A  parking management system built with Flutter and Firebase, featuring real-tim
 aaaa
 User registration and login with Firebase Auth
 Secure user sessions with automatic logout
-Profile management with personal informationasdasda
+Profile management with personal informationasdasdaasd
 
 🚗 Vehicle Managemen  
  
