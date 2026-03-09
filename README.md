@@ -12,7 +12,7 @@ Profile management with personal informationasdasdaasd
 Register multiple vehicles per user in a day
 Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)asdasdkjkj
 Real-time vehicle data synchronization
-Edit and delete vehicle functionalitysty
+Edit and delete vehicle functionalitystyasd
 Registration number validation to prevent duplicatesasd
 
 🅿️ Parking System
