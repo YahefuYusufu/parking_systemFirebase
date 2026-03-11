@@ -27,7 +27,7 @@ Prevent double parking (one vehicle per space)
 📊 User Dashboard
 
 Clean profile interface with user information
-Real-time vehicle list with management options
+Real-time vehicle list with management optionsasd
 Parking history with detailed session information
 Active parking session indicatorsasdasdasd
 Fee calculations and duration tracking
