@@ -42,7 +42,7 @@ Clean expandable sections with smooth animationsasdasd
 
 🏗️ Architectureasdsa
 This app follows Clean Architecture principles with clear separation of concerns:kjkjkjlklk
-lib/
+lib/asdasd
 ├── core/                     # Core utilities and errors
 │   └── errors/
 │       └── failures.dart
