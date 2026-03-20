@@ -29,7 +29,7 @@ Prevent double parking (one vehicle per space)
 Clean profile interface with user information
 Real-time vehicle list with management optionsasd
 Parking history with detailed session information
-Active parking session indicatorsasdasdasd
+Active parking session indicatorsasdasdasd adam bitti
 Fee calculations and duration tracking
 
 🎨 Modern UI/UX
