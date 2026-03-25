@@ -17,7 +17,7 @@ Registration number validation to prevent duplicatesasd
 
 🅿️ Parking System
 
-Start and end parking sessions in theated a lot
+Start and end parking sessions in theated a lot of them
 Real-time parking space availability
 Automatic parking space status updates
 Duration tracking and fee calculation
