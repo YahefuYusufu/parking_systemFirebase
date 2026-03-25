@@ -47,7 +47,7 @@ lib/asdasd
 │   └── errors/
 │       └── failures.dart
 ├── data/                     # Data layer
-│   ├── datasources/         # Remote data lkklk link that in that
+│   ├── datasources/         # Remote data lkklk link that in that was for
 │   │   ├── vehicle_remote_datasource.dart
 │   │   └── parking_data_source.dart
 │   ├── models/              # Data models
