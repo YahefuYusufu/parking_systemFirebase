@@ -9,7 +9,7 @@ Profile management with personal informationasdasdaasd
 
 🚗 Vehicle Managemen  
  
-Register multiple vehicles per user in a day
+Register multiple vehicles per user in a day was a good day
 Support for different vehicle types (Car, Motorcycle, Truck, Van, Bus)asdasdkjkj
 Real-time vehicle data synchronization
 Edit and delete vehicle functionalitystyasd
