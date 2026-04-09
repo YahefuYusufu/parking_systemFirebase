@@ -26,7 +26,7 @@ Prevent double parking (one vehicle per space)
 
 📊 User Dashboard
 
-Clean profile interface with user information
+Clean profile interface with user information be done
 Real-time vehicle list with management optionsasd
 Parking history with detailed session information done ma
 Active parking session indicatorsasdasdasd adam bitti
