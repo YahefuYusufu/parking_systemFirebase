@@ -161,6 +161,8 @@ parking_spaces/{spaceId}
 ├── vehicle_id: string (nullable)
 └── hourly_rate: number
 
+need a extra refinment for this project soon.
+
 
 Made with ❤️ and Flutter
 
