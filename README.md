@@ -46,7 +46,7 @@ This app follows Clean Architecture principles with clear separation of concerns
 lib/asdasd
 ├── core/                     # Core utilities and errors
 │   └── errors/
-│       └── failures.dart
+│       └── failures.dartasdasdsa
 ├── data/                     # Data layer
 │   ├── datasources/         # Remote data lkklk link that in that was for
 │   │   ├── vehicle_remote_datasource.dart
