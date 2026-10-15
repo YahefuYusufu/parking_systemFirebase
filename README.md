@@ -125,7 +125,7 @@ Duration and fee tracking
 Parking space management
 Session history
 
-🚀 Getting Started
+🚀 Getting Started now
 Prerequisites
 
 Flutter SDK (3.0+)
